@@ -15,3 +15,5 @@ Using a dataset with the following attributes
 
 The model should predict
 * Car Purchase Amount
+
+Note this project uses synthetic data
